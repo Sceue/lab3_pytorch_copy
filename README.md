@@ -5,3 +5,6 @@ The repository was used to demonstrate basic git and github concepts to students
 
 change readme main
 This line was added after resolving the conflict.
+
+
+added for PR exercise.
