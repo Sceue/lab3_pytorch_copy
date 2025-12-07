@@ -8,5 +8,3 @@ This line was added after resolving the conflict.
 
 
 added for PR exercise.
-
-BUG BUG BUG - This is an intentional mistake for testing git revert!
